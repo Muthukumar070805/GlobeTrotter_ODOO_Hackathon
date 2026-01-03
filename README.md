@@ -1,10 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Muthukumar070805/GlobeTrotter_ODOO_Hackathon)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Muthukumar070805/GlobeTrotter_ODOO_Hackathon)
-
-</div>
 
 # GlobeTrotter - AI-Powered Travel Planning App
 
