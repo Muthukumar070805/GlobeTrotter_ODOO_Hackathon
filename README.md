@@ -56,4 +56,3 @@ npm run preview
 ```
 
 The build output will be in the `dist` folder.
-
