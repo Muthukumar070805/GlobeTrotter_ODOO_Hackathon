@@ -2,8 +2,13 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { GeminiSuggestion, CityInfo } from "../types";
 
+<<<<<<< HEAD
 // Always initialize with named parameter and direct process.env.API_KEY
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+=======
+// Initialize with Vite environment variable
+const ai = new GoogleGenAI({ apiKey: import.meta.env.VITE_GEMINI_API_KEY });
+>>>>>>> 5ab50d3 (Configure app for Vercel deployment with environment variables)
 
 export const GeminiService = {
   async searchCities(query: string, region: string = "All"): Promise<CityInfo[]> {
@@ -34,7 +39,11 @@ export const GeminiService = {
           }
         }
       });
+<<<<<<< HEAD
       
+=======
+
+>>>>>>> 5ab50d3 (Configure app for Vercel deployment with environment variables)
       const jsonStr = (response.text || "").trim();
       return jsonStr ? JSON.parse(jsonStr) : [];
     } catch (e) {
