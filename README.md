@@ -2,17 +2,6 @@
 
   <h1>🌍 GlobeTrotter</h1>
   <p><strong>AI-Powered Personalized Travel Planning</strong></p>
-
-  <p>
-    <a href="https://github.com/Muthukumar070805/GlobeTrotter_ODOO_Hackathon">
-      <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub" />
-    </a>
-    <a href="https://vercel.com/new/clone?repository-url=https://github.com/Muthukumar070805/GlobeTrotter_ODOO_Hackathon">
-      <img src="https://vercel.com/button" alt="Deploy with Vercel" />
-    </a>
-  </p>
-</div>
-
 ---
 
 ## 🌟 Overview
